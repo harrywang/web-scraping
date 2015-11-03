@@ -1,0 +1,1600 @@
+1	Harvard University		
+1
+100
+100
+2	Stanford University		
+2
+72.1
+41.8
+3	Massachusetts Institute of Technology (MIT)		
+3
+70.5
+68.4
+4	University of California-Berkeley		
+4
+70.1
+66.8
+5	University of Cambridge		
+1
+69.2
+79.1
+6	Princeton University		
+5
+60.7
+52.1
+7	California Institute of Technology		
+6
+60.5
+48.5
+8	Columbia University		
+7
+59.6
+65.1
+9	University of Chicago		
+8
+57.4
+61.4
+9	University of Oxford		
+2
+57.4
+51
+11	Yale University		
+9
+55.2
+48.8
+12	University of California, Los Angeles		
+10
+51.9
+30.2
+13	Cornell University		
+11
+50.6
+37.6
+14	University of California, San Diego		
+12
+49.3
+19.7
+15	University of Washington		
+13
+48.1
+21.7
+16	University of Pennsylvania		
+14
+47.1
+32.4
+17	The Johns Hopkins University		
+15
+47
+38.7
+18	University of California, San Francisco		
+16
+45.2
+0
+19	Swiss Federal Institute of Technology Zurich		
+1
+43.9
+30.2
+20	University College London		
+3
+43.3
+28.8
+21	The University of Tokyo		
+1
+43.2
+31.6
+22	The Imperial College of Science, Technology and Medicine		
+4
+42.3
+14.9
+22	University of Michigan-Ann Arbor		
+17
+42.3
+35.3
+24	University of Toronto		
+1
+41.8
+20.4
+24	University of Wisconsin - Madison		
+18
+41.8
+31.6
+26	Kyoto University		
+2
+39.9
+30.2
+27	New York University		
+19
+39.6
+28.8
+28	Northwestern University		
+20
+39.4
+15.8
+28	University of Illinois at Urbana-Champaign		
+20
+39.4
+30.7
+30	University of Minnesota, Twin Cities		
+22
+39.3
+30.2
+31	Duke University		
+23
+38.4
+15.8
+32	Washington University in St. Louis		
+24
+37.8
+19
+33	Rockefeller University		
+25
+37.6
+17.5
+34	University of Colorado at Boulder		
+26
+37.2
+12.9
+35	Pierre and Marie Curie University - Paris 6		
+1
+35.4
+34.5
+36	University of North Carolina at Chapel Hill		
+27
+35.2
+9.1
+37	University of British Columbia		
+2
+35.1
+15.8
+38	The University of Manchester		
+5
+34.7
+19
+39	The University of Texas at Austin		
+28
+34.5
+16.6
+39	University of Copenhagen		
+1
+34.5
+22.3
+41	University of California, Santa Barbara		
+29
+34.3
+14.9
+42	University of Paris Sud (Paris 11)		
+2
+34.2
+31.1
+43	University of Maryland, College Park		
+30
+32.7
+19.7
+44	The University of Melbourne		
+1
+32.6
+17.5
+45	The University of Edinburgh		
+6
+32.5
+21.1
+45	The University of Texas Southwestern Medical Center at Dallas		
+31
+32.5
+19
+47	Karolinska Institute		
+1
+31.9
+22.9
+47	University of California, Irvine		
+32
+31.9
+0
+49	Heidelberg University		
+1
+31.1
+13.9
+49	University of Munich		
+1
+31.1
+26.3
+51	University of Southern California		
+33
+31
+0
+52	Rutgers, The State University of New Jersey - New Brunswick		
+34
+30.9
+10.5
+53	Technical University Munich		
+3
+30.7
+35.7
+54	Vanderbilt University		
+35
+30.6
+15.8
+55	University of California, Davis		
+36
+30.4
+0
+56	University of Zurich		
+2
+30.3
+5.3
+57	Utrecht University		
+1
+30.2
+23.5
+58	Pennsylvania State University - University Park		
+37
+30
+10.5
+59	King's College London		
+7
+29.7
+21.7
+60	Purdue University - West Lafayette		
+38
+29.5
+13.9
+60	Uppsala University		
+2
+29.5
+18.2
+62	Carnegie Mellon University		
+39
+29.4
+32.4
+63	University of Bristol		
+8
+28.9
+7.4
+64	The Ohio State University - Columbus		
+40
+28.7
+12.9
+65	University of Pittsburgh-Pittsburgh Campus		
+41
+28.6
+19
+66	University of Geneva		
+3
+28.5
+22.3
+67	Ecole Normale Superieure - Paris		
+3
+28.3
+50.2
+67	McGill University		
+3
+28.3
+31.1
+69	University of Oslo		
+1
+28.1
+18.2
+70	Ghent University		
+1
+28
+5.3
+70	The Hebrew University of Jerusalem		
+1
+28
+32.9
+72	Boston University		
+42
+27.8
+11.8
+73	University of Helsinki		
+1
+27.5
+12.9
+74	Aarhus University		
+2
+27.4
+11.8
+74	Brown University		
+43
+27.4
+14.9
+74	The Australian National University		
+2
+27.4
+13.9
+77	Leiden University		
+2
+27.3
+18.2
+78	Osaka University		
+3
+26.8
+9.1
+78	Stockholm University		
+3
+26.8
+24.7
+78	Technion-Israel Institute of Technology		
+2
+26.8
+24.1
+78	University of Florida		
+44
+26.8
+17.5
+82	Rice University		
+45
+26.7
+16.6
+82	University of Groningen		
+3
+26.7
+0
+84	Moscow State University		
+1
+26.1
+42.4
+85	The University of Queensland		
+3
+25.7
+12.9
+86	University of Arizona		
+46
+25.4
+14.9
+87	University of Utah		
+47
+25
+0
+88	Arizona State University		
+48
+24.9
+0
+88	The University of Western Australia		
+4
+24.9
+13.9
+90	McMaster University		
+4
+24.8
+12.9
+90	University of Basel		
+4
+24.8
+19.7
+90	University of Rochester		
+49
+24.8
+25.2
+93	University of California, Santa Cruz		
+50
+24.7
+0
+94	University of Bonn		
+4
+24.6
+15.8
+95	University of Strasbourg		
+4
+24.5
+25.8
+96	KU Leuven		
+2
+24.2
+0
+96	Swiss Federal Institute of Technology Lausanne		
+5
+24.2
+0
+96	Texas A & M University		
+51
+24.2
+0
+99	Georgia Institute of Technology		
+52
+24.1
+12.9
+100	VU University Amsterdam		
+4
+24
+0
+101-150	Aix Marseille University		
+5-7
+13.9
+101-150	Baylor College of Medicine		
+53-64
+0
+101-150	Cardiff University		
+9-17
+0
+101-150	Case Western Reserve University		
+53-64
+31.1
+101-150	Catholic University of Louvain		
+3-4
+10.5
+101-150	Emory University		
+53-64
+0
+101-150	Hokkaido University		
+4-6
+11.8
+101-150	Indiana University Bloomington		
+53-64
+10.5
+101-150	Joseph Fourier University (Grenoble 1)		
+5-7
+0
+101-150	London School of Economics and Political Science		
+9-17
+20.4
+101-150	Lund University		
+4
+21.7
+101-150	Mayo Medical School		
+53-64
+0
+101-150	Michigan State University		
+53-64
+9.1
+101-150	Monash University		
+5-7
+0
+101-150	Nagoya University		
+4-6
+22.3
+101-150	National Taiwan University		
+1
+11.8
+101-150	National University of Singapore		
+1
+0
+101-150	Peking University		
+1-3
+0
+101-150	Radboud University Nijmegen		
+5-7
+16.6
+101-150	Seoul National University		
+1
+0
+101-150	Shanghai Jiao Tong University		
+1-3
+0
+101-150	Technical University of Denmark		
+3
+5.3
+101-150	The University of Glasgow		
+9-17
+7.4
+101-150	The University of New South Wales		
+5-7
+0
+101-150	The University of Sheffield		
+9-17
+18.2
+101-150	The University of Texas M. D. Anderson Cancer Center		
+53-64
+0
+101-150	Tohoku University		
+4-6
+14.9
+101-150	Tsinghua University		
+1-3
+10.5
+101-150	Tufts University		
+53-64
+19
+101-150	University Libre Bruxelles		
+3-4
+20.4
+101-150	University of Alberta		
+5-6
+11.8
+101-150	University of Amsterdam		
+5-7
+5.3
+101-150	University of Birmingham		
+9-17
+19
+101-150	University of California, Riverside		
+53-64
+12.9
+101-150	University of Frankfurt		
+5-7
+31.1
+101-150	University of Freiburg		
+5-7
+19
+101-150	University of Goettingen		
+5-7
+31.6
+101-150	University of Leeds		
+9-17
+17.5
+101-150	University of Liverpool		
+9-17
+17.5
+101-150	University of Massachusetts Amherst		
+53-64
+13.9
+101-150	University of Massachusetts Medical School - Worcester		
+53-64
+0
+101-150	University of Montreal		
+5-6
+11.8
+101-150	University of Nottingham		
+9-17
+11.8
+101-150	University of Sao Paulo		
+1
+0
+101-150	University of Southampton		
+9-17
+0
+101-150	University of Sydney		
+5-7
+14.9
+101-150	University of Virginia		
+53-64
+0
+101-150	University of Wageningen		
+5-7
+0
+101-150	University Paris Diderot - Paris 7		
+5-7
+11.8
+101-150	Weizmann Institute of Science		
+3
+18.2
+151-200	Erasmus University		
+8
+0
+151-200	Fudan University		
+4-6
+0
+151-200	George Mason University		
+65-77
+0
+151-200	Icahn School of Medicine at Mount Sinai		
+65-77
+0
+151-200	Iowa State University		
+65-77
+0
+151-200	King Abdulaziz University		
+1-2
+0
+151-200	King Saud University		
+1-2
+0
+151-200	Kyushu University		
+7-8
+0
+151-200	Nanyang Technological University		
+2
+0
+151-200	North Carolina State University - Raleigh		
+65-77
+0
+151-200	Oregon Health and Science University		
+65-77
+0
+151-200	Oregon State University		
+65-77
+10.5
+151-200	Tel Aviv University		
+4
+0
+151-200	The Chinese University of Hong Kong		
+1-2
+0
+151-200	The University of Adelaide		
+8
+14.9
+151-200	The University of Calgary		
+7
+0
+151-200	The University of Georgia		
+65-77
+0
+151-200	The University of Hong Kong		
+1-2
+0
+151-200	Tokyo Institute of Technology		
+7-8
+12.9
+151-200	Trinity College Dublin		
+1
+10.5
+151-200	University of Barcelona		
+1
+0
+151-200	University of Bern		
+6-7
+12.9
+151-200	University of Bologna		
+1-6
+0
+151-200	University of Buenos Aires		
+1
+14.9
+151-200	University of Delaware		
+65-77
+10.5
+151-200	University of East Anglia		
+18-20
+13.9
+151-200	University of Gothenburg		
+5
+0
+151-200	University of Hamburg		
+8-13
+11.8
+151-200	University of Hawaii at Manoa		
+65-77
+0
+151-200	University of Illinois at Chicago		
+65-77
+0
+151-200	University of Iowa		
+65-77
+0
+151-200	University of Kiel		
+8-13
+10.5
+151-200	University of Koeln		
+8-13
+0
+151-200	University of Lausanne		
+6-7
+0
+151-200	University of Miami		
+65-77
+0
+151-200	University of Milan		
+1-6
+17.5
+151-200	University of Muenster		
+8-13
+19.7
+151-200	University of Padua		
+1-6
+0
+151-200	University of Paris Descartes (Paris 5)		
+8
+11.8
+151-200	University of Pisa		
+1-6
+13.9
+151-200	University of Roma - La Sapienza		
+1-6
+11.8
+151-200	University of Science and Technology of China		
+4-6
+0
+151-200	University of Sussex		
+18-20
+0
+151-200	University of Tuebingen		
+8-13
+22.9
+151-200	University of Turin		
+1-6
+15.8
+151-200	University of Vienna		
+1
+13.9
+151-200	University of Warwick		
+18-20
+0
+151-200	University of Wuerzburg		
+8-13
+19.7
+151-200	Virginia Commonwealth University		
+65-77
+10.5
+151-200	Zhejiang University		
+4-6
+0
+201-300	Autonomous University of Barcelona		
+2-4
+0
+201-300	Autonomous University of Madrid		
+2-4
+0
+201-300	Beijing Normal University		
+7-12
+15.8
+201-300	Charles University in Prague		
+1
+9.1
+201-300	City University of Hong Kong		
+3-4
+0
+201-300	Claude Bernard University Lyon 1		
+9-14
+10.5
+201-300	Colorado State University		
+78-104
+0
+201-300	Dalhousie University		
+8-16
+0
+201-300	Dartmouth College		
+78-104
+18.2
+201-300	Delft University of Technology		
+9-10
+11.8
+201-300	Durham University		
+21-29
+0
+201-300	Ecole Normale Superieure - Lyon		
+9-14
+0
+201-300	Florida State University		
+78-104
+0
+201-300	Harbin Institute of Technology		
+7-12
+0
+201-300	Huazhong University of Science and Technology		
+7-12
+0
+201-300	Karlsruhe Institute of Technology (KIT)		
+14-22
+0
+201-300	Kobe University		
+9-10
+14.9
+201-300	Korea Advanced Institute of Science and Technology		
+2-5
+0
+201-300	Korea University		
+2-5
+0
+201-300	Laval University		
+8-16
+0
+201-300	Louisiana State University - Baton Rouge		
+78-104
+0
+201-300	Maastricht University		
+9-10
+0
+201-300	Macquarie University		
+9
+0
+201-300	Medical University of Vienna		
+2-3
+9.1
+201-300	Nanjing University		
+7-12
+0
+201-300	National Autonomous University of Mexico		
+1
+12.9
+201-300	National Cheng Kung University		
+2-3
+0
+201-300	National Tsing Hua University		
+2-3
+12.9
+201-300	Newcastle University		
+21-29
+0
+201-300	Northeastern University		
+78-104
+0
+201-300	Norwegian University of Science and Technology - NTNU		
+2-3
+13.9
+201-300	Paul Sabatier University (Toulouse 3)		
+9-14
+0
+201-300	Polytechnic Institute of Milan		
+7-8
+7.4
+201-300	Queen Mary, University of London		
+21-29
+18.2
+201-300	Queen's University		
+8-16
+0
+201-300	Rensselaer Polytechnic Institute		
+78-104
+12.9
+201-300	Royal Institute of Technology		
+6-8
+0
+201-300	RWTH Aachen University		
+14-22
+0
+201-300	Simon Fraser University		
+8-16
+0
+201-300	State University of New York at Buffalo		
+78-104
+0
+201-300	Stony Brook University		
+78-104
+0
+201-300	Sun Yat-sen University		
+7-12
+0
+201-300	Sungkyunkwan University		
+2-5
+0
+201-300	Swedish University of Agricultural Sciences		
+6-8
+0
+201-300	The George Washington University		
+78-104
+11.8
+201-300	The Hong Kong University of Science and Technology		
+3-4
+0
+201-300	The University of Alabama at Birmingham		
+78-104
+0
+201-300	The University of Auckland		
+1-2
+13.9
+201-300	The University of Dundee		
+21-29
+0
+201-300	The University of New Mexico - Albuquerque		
+78-104
+0
+201-300	The University of Texas Health Science Center at Houston		
+78-104
+0
+201-300	TU Dresden		
+14-22
+0
+201-300	Umea University		
+6-8
+0
+201-300	University College Dublin		
+2
+0
+201-300	University of Aberdeen		
+21-29
+0
+201-300	University of Bergen		
+2-3
+0
+201-300	University of Bochum		
+14-22
+0
+201-300	University of Bordeaux		
+9-14
+0
+201-300	University of Cape Town		
+1-2
+19
+201-300	University of Cincinnati		
+78-104
+0
+201-300	University of Erlangen-Nuremberg		
+14-22
+0
+201-300	University of Exeter		
+21-29
+0
+201-300	University of Florence		
+7-8
+0
+201-300	University of Guelph		
+8-16
+0
+201-300	University of Houston		
+78-104
+0
+201-300	University of Innsbruck		
+2-3
+0
+201-300	University of Kansas		
+78-104
+11.8
+201-300	University of Kentucky		
+78-104
+10.5
+201-300	University of Leicester		
+21-29
+0
+201-300	University of Leipzig		
+14-22
+11.8
+201-300	University of Liege		
+5
+7.4
+201-300	University of Lisbon		
+1
+0
+201-300	University of Lorraine		
+9-14
+11.8
+201-300	University of Mainz		
+14-22
+0
+201-300	University of Marburg		
+14-22
+10.5
+201-300	University of Maryland, Baltimore		
+78-104
+0
+201-300	University of Missouri - Columbia		
+78-104
+9.1
+201-300	University of Montpellier 2		
+9-14
+10.5
+201-300	University of Nebraska - Lincoln		
+78-104
+17.5
+201-300	University of Notre Dame		
+78-104
+12.9
+201-300	University of Oregon		
+78-104
+9.1
+201-300	University of Otago		
+1-2
+0
+201-300	University of Ottawa		
+8-16
+0
+201-300	University of South Carolina - Columbia		
+78-104
+0
+201-300	University of South Florida		
+78-104
+0
+201-300	University of St Andrews		
+21-29
+10.5
+201-300	University of Stuttgart		
+14-22
+19
+201-300	University of Tennessee - Knoxville		
+78-104
+10.5
+201-300	University of the Witwatersrand		
+1-2
+19
+201-300	University of Tsukuba		
+9-10
+0
+201-300	University of Valencia		
+2-4
+0
+201-300	University of Victoria		
+8-16
+0
+201-300	University of Waterloo		
+8-16
+0
+201-300	University of York		
+21-29
+0
+201-300	Virginia Polytechnic Institute and State University		
+78-104
+11.8
+201-300	Washington State University		
+78-104
+0
+201-300	Western University (The University of Western Ontario)		
+8-16
+0
+201-300	Xian Jiao Tong University		
+7-12
+0
+201-300	Yeshiva University		
+78-104
+0
+201-300	Yonsei University		
+2-5
+0
+301-400	Beihang University		
+13-25
+0
+301-400	Brandeis University		
+105-125
+19.7
+301-400	Brigham Young University		
+105-125
+9.1
+301-400	Central South University		
+13-25
+0
+301-400	Chalmers University of Technology		
+9-10
+0
+301-400	Chiba University		
+11-14
+0
+301-400	China Agricultural University		
+13-25
+0
+301-400	City University of New York City College		
+105-125
+29.3
+301-400	Complutense University of Madrid		
+5-8
+19.7
+301-400	Curtin University		
+10-18
+0
+301-400	Dalian University of Technology		
+13-25
+0
+301-400	Drexel University		
+105-125
+0
+301-400	Ecole Polytechnique		
+15-17
+17.5
+301-400	Eindhoven University of Technology		
+11-12
+0
+301-400	Eotvos Lorand University		
+1
+13.9
+301-400	ESPCI ParisTech		
+15-17
+7.4
+301-400	Federal University of Minas Gerais		
+2-5
+0
+301-400	Federal University of Rio de Janeiro		
+2-5
+0
+301-400	Flinders University		
+10-18
+15.8
+301-400	Georgetown University		
+105-125
+0
+301-400	Griffith University		
+10-18
+0
+301-400	Hannover Medical School		
+23-30
+0
+301-400	Hanyang University		
+6-8
+0
+301-400	Hiroshima University		
+11-14
+0
+301-400	Indian Institute of Science		
+1
+0
+301-400	Indiana University-Purdue University at Indianapolis		
+105-125
+0
+301-400	Jagiellonian University		
+1-2
+10.5
+301-400	James Cook University		
+10-18
+0
+301-400	Jilin University		
+13-25
+0
+301-400	Keio University		
+11-14
+0
+301-400	Kyung Hee University		
+6-8
+0
+301-400	Lancaster University		
+30-33
+0
+301-400	Lanzhou University		
+13-25
+0
+301-400	Linkoping University		
+9-10
+0
+301-400	London School of Hygiene & Tropical Medicine		
+30-33
+7.4
+301-400	Nankai University		
+13-25
+0
+301-400	National and Kapodistrian University of Athens		
+1
+0
+301-400	National Chiao Tung University		
+4
+0
+301-400	Pohang University of Science and Technology		
+6-8
+0
+301-400	Polytechnic University of Valencia		
+5-8
+0
+301-400	Queen's University Belfast		
+30-33
+18.2
+301-400	Saint Petersburg State University		
+2
+27.3
+301-400	San Diego State University		
+105-125
+0
+301-400	Scuola Normale Superiore - Pisa		
+9-12
+0
+301-400	Shandong University		
+13-25
+0
+301-400	Sichuan University		
+13-25
+0
+301-400	South China University of Technology		
+13-25
+0
+301-400	Southeast University		
+13-25
+0
+301-400	SUNY at Albany		
+105-125
+0
+301-400	Swinburne University of Technology		
+10-18
+0
+301-400	Technical University of Berlin		
+23-30
+16.6
+301-400	Temple University		
+105-125
+0
+301-400	The Hong Kong Polytechnic University		
+5
+0
+301-400	The University of Montana - Missoula		
+105-125
+5.3
+301-400	The University of Reading		
+30-33
+0
+301-400	The University of Texas at Dallas		
+105-125
+0
+301-400	The University of Texas Health Science Center at San Antonio		
+105-125
+0
+301-400	Thomas Jefferson University		
+105-125
+0
+301-400	Tokyo Medical and Dental University		
+11-14
+0
+301-400	Tongji University		
+13-25
+0
+301-400	Tulane University		
+105-125
+0
+301-400	UNESP		
+2-5
+0
+301-400	University of Antwerp		
+6-7
+0
+301-400	University of Belgrade		
+1
+0
+301-400	University of Campinas		
+2-5
+0
+301-400	University of Central Florida		
+105-125
+0
+301-400	University of Colorado at Denver		
+105-125
+0
+301-400	University of Connecticut		
+105-125
+11.8
+301-400	University of Duesseldorf		
+23-30
+11.8
+301-400	University of Duisburg-Essen		
+23-30
+0
+301-400	University of Giessen		
+23-30
+0
+301-400	University of Granada		
+5-8
+0
+301-400	University of Halle-Wittenberg		
+23-30
+0
+301-400	University of Konstanz		
+23-30
+0
+301-400	University of Malaya		
+1
+0
+301-400	University of Manitoba		
+17-18
+0
+301-400	University of Milan - Bicocca		
+9-12
+0
+301-400	University of Naples Federico II		
+9-12
+0
+301-400	University of Newcastle		
+10-18
+0
+301-400	University of Oulu		
+2-3
+11.8
+301-400	University of Paris Dauphine (Paris 9)		
+15-17
+15.8
+301-400	University of Pompeu Fabra		
+5-8
+0
+301-400	University of Porto		
+2
+0
+301-400	University of Rhode Island		
+105-125
+0
+301-400	University of Roma - Tor Vergata		
+9-12
+0
+301-400	University of Saskatchewan		
+17-18
+9.1
+301-400	University of Southern Denmark		
+4
+0
+301-400	University of Tasmania		
+10-18
+0
+301-400	University of Technology, Sydney		
+10-18
+0
+301-400	University of Tehran		
+1
+12.9
+301-400	University of Turku		
+2-3
+0
+301-400	University of Twente		
+11-12
+0
+301-400	University of Ulm		
+23-30
+0
+301-400	University of Vermont		
+105-125
+13.9
+301-400	University of Warsaw		
+1-2
+15.8
+301-400	University of Wollongong		
+10-18
+0
+301-400	Vrije University Brussel		
+6-7
+13.9
+301-400	Wake Forest University		
+105-125
+0
+301-400	Wayne State University		
+105-125
+0
+301-400	Xiamen University		
+13-25
+0
+401-500	Aalborg University		
+5
+0
+401-500	Aalto University		
+4-5
+0
+401-500	Aristotle University of Thessaloniki		
+2
+0
+401-500	Auburn University		
+126-146
+0
+401-500	Bar-Ilan University		
+5-6
+0
+401-500	Ben-Gurion University of the Negev		
+5-6
+0
+401-500	Bielefeld University		
+31-39
+0
+401-500	Boston College		
+126-146
+0
+401-500	Brunel University		
+34-38
+0
+401-500	Cairo University		
+1
+19.7
+401-500	Capital University of Medical Sciences		
+26-32
+0
+401-500	Carleton University		
+19-21
+0
+401-500	Catholic University of Chile		
+1-2
+0
+401-500	Catholic University of Korea		
+9-10
+0
+401-500	Catholic University of the Sacred Heart		
+13-21
+0
+401-500	Chang Gung University		
+5-7
+0
+401-500	Clemson University		
+126-146
+0
+401-500	Deakin University		
+19
+0
+401-500	East China University of Science and Technology		
+26-32
+0
+401-500	Ewha Womans University		
+9-10
+0
+401-500	Federal University of Rio Grande do Sul		
+6
+0
+401-500	Istanbul University		
+1
+13.9
+401-500	Kanazawa University		
+15-19
+0
+401-500	Kansas State University		
+126-146
+0
+401-500	Kent State University		
+126-146
+0
+401-500	King Abdullah University of Science and Technology		
+3-4
+0
+401-500	King Fahd University of Petroleum & Minerals		
+3-4
+0
+401-500	Medical University of Graz		
+4-6
+0
+401-500	Medical University of South Carolina		
+126-146
+0
+401-500	MINES ParisTech		
+18-21
+13.9
+401-500	Nanjing Medical University		
+26-32
+0
+401-500	National Sun Yat-Sen University		
+5-7
+0
+401-500	National Yang Ming University		
+5-7
+0
+401-500	Okayama University		
+15-19
+0
+401-500	Oklahoma State University		
+126-146
+0
+401-500	Osaka City University		
+15-19
+15.8
+401-500	Peking Union Medical College		
+26-32
+0
+401-500	Polytechnic University of Catalonia		
+9-12
+0
+401-500	Rush University		
+126-146
+0
+401-500	Saint Louis University		
+126-146
+0
+401-500	Soochow University		
+26-32
+0
+401-500	State University of New York Health Science Center at Brooklyn		
+126-146
+0
+401-500	Stellenbosch University		
+3-4
+0
+401-500	Stockholm School of Economics		
+11
+0
+401-500	Syracuse University		
+126-146
+0
+401-500	Technical University Darmstadt		
+31-39
+14.9
+401-500	Technical University of Braunschweig		
+31-39
+12.9
+401-500	The Open University		
+34-38
+0
+401-500	The University of Texas Medical Branch at Galveston		
+126-146
+0
+401-500	Tianjin University		
+26-32
+0
+401-500	Tilburg University		
+13
+0
+401-500	Tokyo University of Science		
+15-19
+0
+401-500	University College Cork		
+3
+0
+401-500	University of Alaska - Fairbanks		
+126-146
+0
+401-500	University of Arkansas at Fayetteville		
+126-146
+0
+401-500	University of Arkansas at Little Rock		
+126-146
+0
+401-500	University of Auvergne		
+18-21
+0
+401-500	University of Bath		
+34-38
+0
+401-500	University of Bayreuth		
+31-39
+0
+401-500	University of Bremen		
+31-39
+0
+401-500	University of Cagliari		
+13-21
+0
+401-500	University of Canterbury		
+3-4
+0
+401-500	University of Chile		
+1-2
+7.4
+401-500	University of Coimbra		
+3
+0
+401-500	University of Eastern Finland		
+4-5
+0
+401-500	University of Essex		
+34-38
+19.7
+401-500	University of Ferrara		
+13-21
+0
+401-500	University of Genova		
+13-21
+0
+401-500	University of Graz		
+4-6
+7.4
+401-500	University of Hannover		
+31-39
+0
+401-500	University of Jena		
+31-39
+0
+401-500	University of KwaZulu-Natal		
+3-4
+0
+401-500	University of Ljubljana		
+1
+0
+401-500	University of Maryland, Baltimore County		
+126-146
+0
+401-500	University of New Hampshire - Durham		
+126-146
+0
+401-500	University of Nice Sophia Antipolis		
+18-21
+0
+401-500	University of Oklahoma - Norman		
+126-146
+0
+401-500	University of Palermo		
+13-21
+0
+401-500	University of Parma		
+13-21
+0
+401-500	University of Pavia		
+13-21
+0
+401-500	University of Perugia		
+13-21
+0
+401-500	University of Quebec		
+19-21
+0
+401-500	University of Regensburg		
+31-39
+0
+401-500	University of Rennes 1		
+18-21
+0
+401-500	University of Rostock		
+31-39
+0
+401-500	University of Santiago Compostela		
+9-12
+0
+401-500	University of Science, Malaysia		
+2
+0
+401-500	University of Surrey		
+34-38
+0
+401-500	University of Szeged		
+2
+0
+401-500	University of Tennessee Health Science Center		
+126-146
+0
+401-500	University of the Basque Country		
+9-12
+0
+401-500	University of Trieste		
+13-21
+0
+401-500	University of Wyoming		
+126-146
+0
+401-500	University of Zaragoza		
+9-12
+0
+401-500	Utah State University		
+126-146
+13.9
+401-500	Victoria University of Wellington		
+3-4
+11.8
+401-500	Vienna University of Technology		
+4-6
+0
+401-500	Waseda University		
+15-19
+0
+401-500	Wuhan University		
+26-32
+0
+401-500	York University		
+19-21
+0
